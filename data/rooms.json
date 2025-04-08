@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "room_type": "aaa",
+        "price": 1000.0,
+        "is_available": false
+    },
+    {
+        "id": 2,
+        "room_type": "aaa",
+        "price": 2000.0,
+        "is_available": false
+    },
+    {
+        "id": 3,
+        "room_type": "aaa",
+        "price": 3000.0,
+        "is_available": false
+    },
+    {
+        "id": 4,
+        "room_type": "rrr",
+        "price": 1500.0,
+        "is_available": false
+    }
+]

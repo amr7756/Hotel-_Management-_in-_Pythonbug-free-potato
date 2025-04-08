@@ -1,0 +1,10 @@
+[
+    {
+        "discount_id": 2,
+        "description": "rrr",
+        "percentage": 10.0,
+        "start_date": "2025-04-08T05:23:42.349611",
+        "end_date": "2025-04-09T05:23:42.349611",
+        "room_id": 3
+    }
+]
