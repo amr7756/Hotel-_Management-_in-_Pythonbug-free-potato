@@ -1,26 +1,32 @@
 [
     {
         "id": 1,
-        "room_type": "aaa",
-        "price": 1000.0,
+        "room_type": "Suite",
+        "price": 20000.0,
         "is_available": false
     },
     {
         "id": 2,
-        "room_type": "aaa",
-        "price": 2000.0,
+        "room_type": "Single",
+        "price": 15000.0,
         "is_available": false
     },
     {
         "id": 3,
-        "room_type": "aaa",
-        "price": 3000.0,
-        "is_available": false
+        "room_type": "Double",
+        "price": 20000.0,
+        "is_available": true
     },
     {
         "id": 4,
-        "room_type": "rrr",
-        "price": 1500.0,
-        "is_available": false
+        "room_type": "Triple",
+        "price": 30000.0,
+        "is_available": true
+    },
+    {
+        "id": 5,
+        "room_type": "Family",
+        "price": 40000.0,
+        "is_available": true
     }
 ]

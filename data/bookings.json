@@ -1,38 +1,20 @@
 [
     {
-        "booking_id": 3,
+        "booking_id": 1,
         "room_id": 1,
         "customer_id": 1,
-        "start_date": "2025-04-08T04:57:07.925439",
-        "end_date": "2025-04-09T04:57:07.925439",
+        "start_date": "2025-04-10T01:32:23.702824",
+        "end_date": "2025-04-14T01:32:23.702824",
         "is_paid": true,
-        "total_price": 800.0
+        "total_price": 64000.0
     },
     {
-        "booking_id": 4,
+        "booking_id": 2,
         "room_id": 2,
-        "customer_id": 1,
-        "start_date": "2025-04-08T05:21:02.536958",
-        "end_date": "2025-04-09T05:21:02.536958",
-        "is_paid": true,
-        "total_price": 1600.0
-    },
-    {
-        "booking_id": 5,
-        "room_id": 4,
-        "customer_id": 1,
-        "start_date": "2025-04-08T05:31:34.850068",
-        "end_date": "2025-04-09T05:31:34.850068",
+        "customer_id": 2,
+        "start_date": "2025-04-10T01:33:07.835915",
+        "end_date": "2025-04-13T01:33:07.835915",
         "is_paid": false,
-        "total_price": 1500.0
-    },
-    {
-        "booking_id": 6,
-        "room_id": 3,
-        "customer_id": 1,
-        "start_date": "2025-04-08T05:32:04.695504",
-        "end_date": "2025-04-09T05:32:04.695504",
-        "is_paid": true,
-        "total_price": 2700.0
+        "total_price": 36000.0
     }
 ]

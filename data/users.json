@@ -1,9 +1,16 @@
 [
     {
         "id": 1,
-        "user_name": "amr",
-        "password": "775",
+        "user_name": "admin",
+        "password": "1234",
         "role": "admin",
-        "phone_number": "775"
+        "phone_number": "777777777"
+    },
+    {
+        "id": 2,
+        "user_name": "user",
+        "password": "1234",
+        "role": "user",
+        "phone_number": "777777777"
     }
 ]
