@@ -206,7 +206,9 @@ discounts.json: سجل الخصومات
 المكتبات المطلوبة: python-dateutil
 
 خطوات التنصيب
+
 استنساخ المستودع:
+
 git clone https://github.com/amr7756/Hotel-_Management-_in-_Pythonbug-free-potato.git
 cd Hotel-_Management-_in-_Pythonbug-free-potato
 
